@@ -1,0 +1,497 @@
+[
+  {
+    "question": "What is the capital city of France?",
+    "options": ["London", "Berlin", "Paris", "Madrid"],
+    "answer": "Paris"
+  },
+  {
+    "question": "How many days are in a week?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "question": "What color is the sky on a clear day?",
+    "options": ["Green", "Blue", "Red", "Yellow"],
+    "answer": "Blue"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Jupiter", "Mars", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "4"
+  },
+  {
+    "question": "Which animal is known as man's best friend?",
+    "options": ["Cat", "Horse", "Dog", "Rabbit"],
+    "answer": "Dog"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "Which author wrote the Harry Potter series?",
+    "options": ["Stephen King", "J.R.R. Tolkien", "J.K. Rowling", "Roald Dahl"],
+    "answer": "J.K. Rowling"
+  },
+  {
+    "question": "What is the color of grass?",
+    "options": ["Blue", "Red", "Green", "Purple"],
+    "answer": "Green"
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "options": ["6", "8", "10", "12"],
+    "answer": "8"
+  },
+  {
+    "question": "Which country is home to the kangaroo?",
+    "options": ["South Africa", "Brazil", "Australia", "India"],
+    "answer": "Australia"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": ["90°C", "95°C", "100°C", "110°C"],
+    "answer": "100°C"
+  },
+  {
+    "question": "Which rock band was Freddie Mercury part of?",
+    "options": ["The Beatles", "Queen", "Led Zeppelin", "Pink Floyd"],
+    "answer": "Queen"
+  },
+  {
+    "question": "What is the smallest planet in our solar system?",
+    "options": ["Mars", "Venus", "Mercury", "Pluto"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "How many sides does a triangle have?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3"
+  },
+  {
+    "question": "What language do people speak in Brazil?",
+    "options": ["Spanish", "Portuguese", "French", "English"],
+    "answer": "Portuguese"
+  },
+  {
+    "question": "Which fruit is yellow and curved?",
+    "options": ["Apple", "Grape", "Banana", "Orange"],
+    "answer": "Banana"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Great White Shark"],
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "In which sport do you use a racket and a shuttlecock?",
+    "options": ["Tennis", "Squash", "Badminton", "Ping Pong"],
+    "answer": "Badminton"
+  },
+  {
+    "question": "What is the capital of the United States?",
+    "options": ["New York", "Los Angeles", "Washington D.C.", "Chicago"],
+    "answer": "Washington D.C."
+  },
+  {
+    "question": "How many months are in a year?",
+    "options": ["10", "11", "12", "13"],
+    "answer": "12"
+  },
+  {
+    "question": "What do bees produce?",
+    "options": ["Milk", "Honey", "Wax only", "Silk"],
+    "answer": "Honey"
+  },
+  {
+    "question": "Which shape has four equal sides?",
+    "options": ["Rectangle", "Triangle", "Square", "Pentagon"],
+    "answer": "Square"
+  },
+  {
+    "question": "What is the nearest star to Earth?",
+    "options": ["Sirius", "Alpha Centauri", "The Sun", "Betelgeuse"],
+    "answer": "The Sun"
+  },
+  {
+    "question": "Which ocean is to the east of the United States?",
+    "options": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Atlantic Ocean",
+      "Arctic Ocean"
+    ],
+    "answer": "Atlantic Ocean"
+  },
+  {
+    "question": "What is ice made of?",
+    "options": ["Hydrogen", "Oxygen", "Water", "Carbon dioxide"],
+    "answer": "Water"
+  },
+  {
+    "question": "Which instrument has black and white keys?",
+    "options": ["Guitar", "Violin", "Piano", "Trumpet"],
+    "answer": "Piano"
+  },
+  {
+    "question": "How many zeros are in one hundred?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "question": "What is the name of the fairy tale character who slept for 100 years?",
+    "options": ["Cinderella", "Snow White", "Sleeping Beauty", "Rapunzel"],
+    "answer": "Sleeping Beauty"
+  },
+  {
+    "question": "What color do you get when you mix red and white?",
+    "options": ["Orange", "Purple", "Pink", "Brown"],
+    "answer": "Pink"
+  },
+  {
+    "question": "How many players are on a standard soccer team?",
+    "options": ["9", "10", "11", "12"],
+    "answer": "11"
+  },
+  {
+    "question": "Which country built the Great Wall?",
+    "options": ["Japan", "India", "China", "Korea"],
+    "answer": "China"
+  },
+  {
+    "question": "What do you call a baby dog?",
+    "options": ["Kitten", "Cub", "Puppy", "Foal"],
+    "answer": "Puppy"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Earth", "Mars", "Mercury"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the main ingredient in bread?",
+    "options": ["Rice", "Flour", "Corn", "Potato"],
+    "answer": "Flour"
+  },
+  {
+    "question": "How many hours are in a day?",
+    "options": ["20", "22", "24", "26"],
+    "answer": "24"
+  },
+  {
+    "question": "Which animal has a very long neck?",
+    "options": ["Elephant", "Hippo", "Giraffe", "Rhino"],
+    "answer": "Giraffe"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": ["Beijing", "Seoul", "Bangkok", "Tokyo"],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "What do caterpillars turn into?",
+    "options": ["Moths or Butterflies", "Beetles", "Dragonflies", "Bees"],
+    "answer": "Moths or Butterflies"
+  },
+  {
+    "question": "Which season comes after summer?",
+    "options": ["Spring", "Winter", "Autumn", "Monsoon"],
+    "answer": "Autumn"
+  },
+  {
+    "question": "What is 10 x 10?",
+    "options": ["10", "20", "100", "1000"],
+    "answer": "100"
+  },
+  {
+    "question": "What type of animal is a goldfish?",
+    "options": ["Mammal", "Reptile", "Amphibian", "Fish"],
+    "answer": "Fish"
+  },
+  {
+    "question": "Which country is the Eiffel Tower located in?",
+    "options": ["Italy", "Spain", "France", "Germany"],
+    "answer": "France"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Quartz"],
+    "answer": "Diamond"
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "6"
+  },
+  {
+    "question": "Which Disney character has a long nose that grows when he lies?",
+    "options": ["Dumbo", "Pinocchio", "Bambi", "Simba"],
+    "answer": "Pinocchio"
+  },
+  {
+    "question": "What is the opposite of hot?",
+    "options": ["Warm", "Cool", "Cold", "Mild"],
+    "answer": "Cold"
+  },
+  {
+    "question": "What currency do people use in the United Kingdom?",
+    "options": ["Euro", "Dollar", "Pound", "Franc"],
+    "answer": "Pound"
+  },
+  {
+    "question": "Which big cat is the fastest land animal?",
+    "options": ["Lion", "Tiger", "Leopard", "Cheetah"],
+    "answer": "Cheetah"
+  },
+  {
+    "question": "What is the primary color of the sun?",
+    "options": ["Orange", "Red", "White", "Yellow"],
+    "answer": "Yellow"
+  },
+  {
+    "question": "How many letters are in the English alphabet?",
+    "options": ["24", "25", "26", "27"],
+    "answer": "26"
+  },
+  {
+    "question": "Which vegetable is known for making you cry when you cut it?",
+    "options": ["Garlic", "Onion", "Pepper", "Carrot"],
+    "answer": "Onion"
+  },
+  {
+    "question": "What is the name of the ship that sank after hitting an iceberg in 1912?",
+    "options": ["Lusitania", "Britannic", "Titanic", "Olympic"],
+    "answer": "Titanic"
+  },
+  {
+    "question": "What do you call a person who studies the stars?",
+    "options": ["Geologist", "Biologist", "Astronomer", "Meteorologist"],
+    "answer": "Astronomer"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "South Korea", "Thailand"],
+    "answer": "Japan"
+  },
+  {
+    "question": "What is the first letter of the Greek alphabet?",
+    "options": ["Beta", "Gamma", "Alpha", "Delta"],
+    "answer": "Alpha"
+  },
+  {
+    "question": "How many wheels does a tricycle have?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3"
+  },
+  {
+    "question": "What do plants need to make food through photosynthesis?",
+    "options": ["Moonlight", "Sunlight", "Wind", "Rain"],
+    "answer": "Sunlight"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+    "answer": "Canberra"
+  },
+  {
+    "question": "Which number comes after 99?",
+    "options": ["98", "100", "101", "110"],
+    "answer": "100"
+  },
+  {
+    "question": "What is the name of the longest river in the world?",
+    "options": ["Amazon", "Yangtze", "Mississippi", "Nile"],
+    "answer": "Nile"
+  },
+  {
+    "question": "What gas do humans breathe in to survive?",
+    "options": ["Carbon Dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "Which of these is a primary color?",
+    "options": ["Green", "Orange", "Purple", "Blue"],
+    "answer": "Blue"
+  },
+  {
+    "question": "How many eggs are in a dozen?",
+    "options": ["10", "11", "12", "13"],
+    "answer": "12"
+  },
+  {
+    "question": "What is the name of the toy cowboy in Toy Story?",
+    "options": ["Buzz", "Woody", "Rex", "Hamm"],
+    "answer": "Woody"
+  },
+  {
+    "question": "Which country is famous for the pyramids?",
+    "options": ["Greece", "Mexico", "Egypt", "Iraq"],
+    "answer": "Egypt"
+  },
+  {
+    "question": "What type of animal is Simba in The Lion King?",
+    "options": ["Tiger", "Cheetah", "Leopard", "Lion"],
+    "answer": "Lion"
+  },
+  {
+    "question": "How many minutes are in one hour?",
+    "options": ["30", "45", "60", "90"],
+    "answer": "60"
+  },
+  {
+    "question": "What is the name of the fairy who accompanies Peter Pan?",
+    "options": ["Flora", "Fauna", "Tinker Bell", "Pixie"],
+    "answer": "Tinker Bell"
+  },
+  {
+    "question": "Which planet has rings around it?",
+    "options": ["Jupiter", "Mars", "Saturn", "Neptune"],
+    "answer": "Saturn"
+  },
+  {
+    "question": "What is a group of lions called?",
+    "options": ["Pack", "Herd", "Pride", "Flock"],
+    "answer": "Pride"
+  },
+  {
+    "question": "Which sport uses a bat, a ball, and bases?",
+    "options": ["Cricket", "Baseball", "Golf", "Hockey"],
+    "answer": "Baseball"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": ["Munich", "Hamburg", "Frankfurt", "Berlin"],
+    "answer": "Berlin"
+  },
+  {
+    "question": "Which superhero wears a red and blue suit and shoots webs?",
+    "options": ["Batman", "Superman", "Spider-Man", "Iron Man"],
+    "answer": "Spider-Man"
+  },
+  {
+    "question": "What is 50% of 100?",
+    "options": ["25", "40", "50", "75"],
+    "answer": "50"
+  },
+  {
+    "question": "What is the name of the ocean between Europe and North America?",
+    "options": ["Pacific", "Indian", "Atlantic", "Arctic"],
+    "answer": "Atlantic"
+  },
+  {
+    "question": "What do cows drink?",
+    "options": ["Milk", "Juice", "Water", "Soda"],
+    "answer": "Water"
+  },
+  {
+    "question": "Which month comes after January?",
+    "options": ["March", "December", "February", "April"],
+    "answer": "February"
+  },
+  {
+    "question": "What is the name of the frozen water that falls from the sky?",
+    "options": ["Hail", "Rain", "Snow", "Sleet"],
+    "answer": "Snow"
+  },
+  {
+    "question": "What color are emeralds?",
+    "options": ["Red", "Blue", "Yellow", "Green"],
+    "answer": "Green"
+  },
+  {
+    "question": "Which animal is known as the King of the Jungle?",
+    "options": ["Tiger", "Elephant", "Lion", "Gorilla"],
+    "answer": "Lion"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "options": ["K2", "Mount Everest", "Kilimanjaro", "Mont Blanc"],
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "What shape is a stop sign?",
+    "options": ["Circle", "Square", "Hexagon", "Octagon"],
+    "answer": "Octagon"
+  },
+  {
+    "question": "What is the name of the pirate ship in Peter Pan?",
+    "options": ["Black Pearl", "Jolly Roger", "Flying Dutchman", "Red Sail"],
+    "answer": "Jolly Roger"
+  },
+  {
+    "question": "Which sense do you use your nose for?",
+    "options": ["Taste", "Touch", "Hearing", "Smell"],
+    "answer": "Smell"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": ["Venice", "Milan", "Naples", "Rome"],
+    "answer": "Rome"
+  },
+  {
+    "question": "What is 7 x 7?",
+    "options": ["42", "47", "49", "56"],
+    "answer": "49"
+  },
+  {
+    "question": "Which bird cannot fly?",
+    "options": ["Eagle", "Sparrow", "Penguin", "Parrot"],
+    "answer": "Penguin"
+  },
+  {
+    "question": "What type of food is sushi?",
+    "options": ["Chinese", "Korean", "Thai", "Japanese"],
+    "answer": "Japanese"
+  },
+  {
+    "question": "How many seconds are in one minute?",
+    "options": ["30", "45", "60", "100"],
+    "answer": "60"
+  },
+  {
+    "question": "What is the name of the magic school in Harry Potter?",
+    "options": ["Narnia", "Wonderland", "Hogwarts", "Neverland"],
+    "answer": "Hogwarts"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["WA", "HO", "H2O", "OW"],
+    "answer": "H2O"
+  },
+  {
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "options": ["China", "UK", "Brazil", "Russia"],
+    "answer": "Brazil"
+  },
+  {
+    "question": "What is the name of Batman's butler?",
+    "options": ["James", "Alfred", "Arthur", "Edward"],
+    "answer": "Alfred"
+  },
+  {
+    "question": "Which number is considered a baker's dozen?",
+    "options": ["11", "12", "13", "14"],
+    "answer": "13"
+  },
+  {
+    "question": "What is the name of the Greek god of the sea?",
+    "options": ["Zeus", "Apollo", "Ares", "Poseidon"],
+    "answer": "Poseidon"
+  }
+]

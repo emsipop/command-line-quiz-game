@@ -1,0 +1,577 @@
+[
+  {
+    "question": "What is the capital of Canada?",
+    "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Which element has the chemical symbol 'Au'?",
+    "options": ["Silver", "Copper", "Gold", "Aluminum"],
+    "answer": "Gold"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Michelangelo", "Raphael", "Leonardo da Vinci", "Donatello"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "How many bones are in the adult human body?",
+    "options": ["196", "206", "216", "226"],
+    "answer": "206"
+  },
+  {
+    "question": "Which country has the largest population in the world?",
+    "options": ["USA", "Russia", "India", "China"],
+    "answer": "India"
+  },
+  {
+    "question": "What is the speed of light in a vacuum (approximately)?",
+    "options": ["150,000 km/s", "200,000 km/s", "300,000 km/s", "400,000 km/s"],
+    "answer": "300,000 km/s"
+  },
+  {
+    "question": "Which Shakespeare play features the characters Othello and Iago?",
+    "options": ["Hamlet", "Othello", "Macbeth", "King Lear"],
+    "answer": "Othello"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi Apparatus"],
+    "answer": "Mitochondria"
+  },
+  {
+    "question": "In what year did World War II end?",
+    "options": ["1943", "1944", "1945", "1946"],
+    "answer": "1945"
+  },
+  {
+    "question": "Which planet is the largest in our solar system?",
+    "options": ["Saturn", "Neptune", "Jupiter", "Uranus"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": ["Won", "Yuan", "Yen", "Baht"],
+    "answer": "Yen"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Jane Austen",
+      "Oscar Wilde"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the longest bone in the human body?",
+    "options": ["Humerus", "Tibia", "Spine", "Femur"],
+    "answer": "Femur"
+  },
+  {
+    "question": "Which gas makes up the majority of Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "In which year did the Berlin Wall fall?",
+    "options": ["1987", "1988", "1989", "1990"],
+    "answer": "1989"
+  },
+  {
+    "question": "What is the name of the largest rainforest in the world?",
+    "options": [
+      "Congo Rainforest",
+      "Amazon Rainforest",
+      "Daintree Rainforest",
+      "Tongass Rainforest"
+    ],
+    "answer": "Amazon Rainforest"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi"
+    ],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": ["10", "11", "12", "13"],
+    "answer": "12"
+  },
+  {
+    "question": "Which country is home to the Taj Mahal?",
+    "options": ["Pakistan", "Bangladesh", "India", "Sri Lanka"],
+    "answer": "India"
+  },
+  {
+    "question": "What does DNA stand for?",
+    "options": [
+      "Deoxyribonucleic Acid",
+      "Dioxynucleic Acid",
+      "Diribonucleic Acid",
+      "Deoxynitric Acid"
+    ],
+    "answer": "Deoxyribonucleic Acid"
+  },
+  {
+    "question": "Which artist cut off part of his own ear?",
+    "options": [
+      "Pablo Picasso",
+      "Claude Monet",
+      "Vincent van Gogh",
+      "Salvador Dalí"
+    ],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "question": "How many chambers does the human heart have?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": ["São Paulo", "Rio de Janeiro", "Salvador", "Brasília"],
+    "answer": "Brasília"
+  },
+  {
+    "question": "Which ocean is the deepest in the world?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "What is the name of the process by which plants make food using sunlight?",
+    "options": ["Respiration", "Photosynthesis", "Osmosis", "Fermentation"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "question": "In which city were the first modern Olympic Games held in 1896?",
+    "options": ["Paris", "London", "Rome", "Athens"],
+    "answer": "Athens"
+  },
+  {
+    "question": "What is the chemical symbol for iron?",
+    "options": ["Ir", "In", "Fe", "Fo"],
+    "answer": "Fe"
+  },
+  {
+    "question": "Who was the first man to walk on the moon?",
+    "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "John Glenn"],
+    "answer": "Neil Armstrong"
+  },
+  {
+    "question": "Which country is the largest by land area?",
+    "options": ["Canada", "China", "USA", "Russia"],
+    "answer": "Russia"
+  },
+  {
+    "question": "What type of triangle has all three sides of equal length?",
+    "options": ["Scalene", "Isosceles", "Right-angled", "Equilateral"],
+    "answer": "Equilateral"
+  },
+  {
+    "question": "Which novel begins with the line 'Call me Ishmael'?",
+    "options": [
+      "The Old Man and the Sea",
+      "Moby-Dick",
+      "Robinson Crusoe",
+      "Treasure Island"
+    ],
+    "answer": "Moby-Dick"
+  },
+  {
+    "question": "What is the hardest organ in the human body?",
+    "options": ["Bone", "Cartilage", "Tooth enamel", "Nail"],
+    "answer": "Tooth enamel"
+  },
+  {
+    "question": "Which country invented pizza?",
+    "options": ["Greece", "Spain", "France", "Italy"],
+    "answer": "Italy"
+  },
+  {
+    "question": "What is the name of the phobia of spiders?",
+    "options": ["Acrophobia", "Arachnophobia", "Claustrophobia", "Agoraphobia"],
+    "answer": "Arachnophobia"
+  },
+  {
+    "question": "Which planet rotates on its side?",
+    "options": ["Neptune", "Saturn", "Venus", "Uranus"],
+    "answer": "Uranus"
+  },
+  {
+    "question": "Who wrote '1984'?",
+    "options": ["Aldous Huxley", "Ray Bradbury", "George Orwell", "H.G. Wells"],
+    "answer": "George Orwell"
+  },
+  {
+    "question": "What is the most spoken language in the world by number of native speakers?",
+    "options": ["English", "Spanish", "Mandarin Chinese", "Hindi"],
+    "answer": "Mandarin Chinese"
+  },
+  {
+    "question": "Which organ in the human body produces insulin?",
+    "options": ["Liver", "Kidneys", "Pancreas", "Gallbladder"],
+    "answer": "Pancreas"
+  },
+  {
+    "question": "In what year did the Titanic sink?",
+    "options": ["1910", "1912", "1914", "1916"],
+    "answer": "1912"
+  },
+  {
+    "question": "Which country won the most gold medals at the 2020 Tokyo Olympics?",
+    "options": ["China", "USA", "Great Britain", "Japan"],
+    "answer": "USA"
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "options": ["Cape Town", "Johannesburg", "Durban", "Pretoria"],
+    "answer": "Pretoria"
+  },
+  {
+    "question": "Which element is represented by the symbol 'K' on the periodic table?",
+    "options": ["Krypton", "Potassium", "Calcium", "Cobalt"],
+    "answer": "Potassium"
+  },
+  {
+    "question": "What is the name of the world's largest desert?",
+    "options": [
+      "Gobi Desert",
+      "Sahara Desert",
+      "Arabian Desert",
+      "Antarctic Desert"
+    ],
+    "answer": "Antarctic Desert"
+  },
+  {
+    "question": "Who composed the 'Moonlight Sonata'?",
+    "options": ["Mozart", "Bach", "Beethoven", "Chopin"],
+    "answer": "Beethoven"
+  },
+  {
+    "question": "How many players are on a basketball team on the court at one time?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5"
+  },
+  {
+    "question": "What is the name of the largest organ in the human body?",
+    "options": ["Brain", "Liver", "Lungs", "Skin"],
+    "answer": "Skin"
+  },
+  {
+    "question": "Which country is Mount Kilimanjaro located in?",
+    "options": ["Kenya", "Tanzania", "Uganda", "Ethiopia"],
+    "answer": "Tanzania"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Transfer Text Program",
+      "HyperText Transmission Process",
+      "Hyperlink Text Transfer Protocol"
+    ],
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "question": "Who invented the World Wide Web?",
+    "options": ["Bill Gates", "Steve Jobs", "Tim Berners-Lee", "Vint Cerf"],
+    "answer": "Tim Berners-Lee"
+  },
+  {
+    "question": "Which sea creature has three hearts?",
+    "options": ["Shark", "Dolphin", "Octopus", "Jellyfish"],
+    "answer": "Octopus"
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "options": ["Lima", "Santiago", "Montevideo", "Buenos Aires"],
+    "answer": "Buenos Aires"
+  },
+  {
+    "question": "Which war was fought between the North and South of America?",
+    "options": [
+      "War of Independence",
+      "World War I",
+      "Civil War",
+      "Mexican-American War"
+    ],
+    "answer": "Civil War"
+  },
+  {
+    "question": "What is the name of the membrane that surrounds the lungs?",
+    "options": ["Pericardium", "Peritoneum", "Pleura", "Meninges"],
+    "answer": "Pleura"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": "Saturn"
+  },
+  {
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "options": [
+      "Theresa May",
+      "Margaret Thatcher",
+      "Angela Merkel",
+      "Indira Gandhi"
+    ],
+    "answer": "Margaret Thatcher"
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "options": ["KCl", "NaOH", "NaCl", "CaCl2"],
+    "answer": "NaCl"
+  },
+  {
+    "question": "Which country does feta cheese originally come from?",
+    "options": ["Turkey", "Italy", "Greece", "Bulgaria"],
+    "answer": "Greece"
+  },
+  {
+    "question": "In which US state is the Grand Canyon located?",
+    "options": ["Nevada", "Utah", "Colorado", "Arizona"],
+    "answer": "Arizona"
+  },
+  {
+    "question": "What is the name of the scientist who developed the theory of general relativity?",
+    "options": [
+      "Isaac Newton",
+      "Niels Bohr",
+      "Albert Einstein",
+      "Stephen Hawking"
+    ],
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "How many strings does a standard guitar have?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "6"
+  },
+  {
+    "question": "Which country is home to the ancient city of Machu Picchu?",
+    "options": ["Colombia", "Bolivia", "Ecuador", "Peru"],
+    "answer": "Peru"
+  },
+  {
+    "question": "What is the name of the longest river in South America?",
+    "options": ["Nile", "Mississippi", "Amazon", "Congo"],
+    "answer": "Amazon"
+  },
+  {
+    "question": "What was the first country to give women the right to vote?",
+    "options": ["USA", "UK", "New Zealand", "Australia"],
+    "answer": "New Zealand"
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "options": ["Helium", "Hydrogen", "Carbon", "Oxygen"],
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "options": [
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "George Eliot",
+      "Jane Austen"
+    ],
+    "answer": "Jane Austen"
+  },
+  {
+    "question": "How many time zones does Russia span?",
+    "options": ["9", "10", "11", "12"],
+    "answer": "11"
+  },
+  {
+    "question": "What is the name of the pigment that gives skin its color?",
+    "options": ["Keratin", "Collagen", "Melanin", "Elastin"],
+    "answer": "Melanin"
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the United States?",
+    "options": ["England", "France", "Spain", "Italy"],
+    "answer": "France"
+  },
+  {
+    "question": "What is the name of the process by which water turns into vapor?",
+    "options": ["Condensation", "Precipitation", "Evaporation", "Sublimation"],
+    "answer": "Evaporation"
+  },
+  {
+    "question": "Which famous scientist developed the three laws of motion?",
+    "options": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Albert Einstein",
+      "Nikola Tesla"
+    ],
+    "answer": "Isaac Newton"
+  },
+  {
+    "question": "What is the name of the currency used in Russia?",
+    "options": ["Ruble", "Krona", "Zloty", "Forint"],
+    "answer": "Ruble"
+  },
+  {
+    "question": "In Greek mythology, who is the god of war?",
+    "options": ["Hermes", "Apollo", "Ares", "Hephaestus"],
+    "answer": "Ares"
+  },
+  {
+    "question": "What is the smallest country in the world by land area?",
+    "options": ["Monaco", "San Marino", "Liechtenstein", "Vatican City"],
+    "answer": "Vatican City"
+  },
+  {
+    "question": "Which blood type is considered the universal donor?",
+    "options": ["A+", "B-", "AB+", "O-"],
+    "answer": "O-"
+  },
+  {
+    "question": "Who directed the film 'Schindler's List'?",
+    "options": [
+      "Martin Scorsese",
+      "Stanley Kubrick",
+      "Steven Spielberg",
+      "Francis Ford Coppola"
+    ],
+    "answer": "Steven Spielberg"
+  },
+  {
+    "question": "What is the name of the galaxy that contains our solar system?",
+    "options": ["Andromeda", "Triangulum", "Milky Way", "Sombrero"],
+    "answer": "Milky Way"
+  },
+  {
+    "question": "Which country is the origin of the martial art Karate?",
+    "options": ["China", "Korea", "Japan", "Thailand"],
+    "answer": "Japan"
+  },
+  {
+    "question": "What is the name of the imaginary line that divides the Earth into Northern and Southern Hemispheres?",
+    "options": [
+      "Prime Meridian",
+      "Tropic of Cancer",
+      "Equator",
+      "Arctic Circle"
+    ],
+    "answer": "Equator"
+  },
+  {
+    "question": "How many sides does a pentagon have?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5"
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "options": [
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "F. Scott Fitzgerald",
+      "William Faulkner"
+    ],
+    "answer": "F. Scott Fitzgerald"
+  },
+  {
+    "question": "What is the name of the process by which a liquid turns into a solid?",
+    "options": ["Melting", "Evaporation", "Condensation", "Freezing"],
+    "answer": "Freezing"
+  },
+  {
+    "question": "Which US president appears on the one-dollar bill?",
+    "options": [
+      "Abraham Lincoln",
+      "Thomas Jefferson",
+      "George Washington",
+      "Andrew Jackson"
+    ],
+    "answer": "George Washington"
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "options": ["Alexandria", "Luxor", "Aswan", "Cairo"],
+    "answer": "Cairo"
+  },
+  {
+    "question": "Which vitamin is produced when the skin is exposed to sunlight?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin D"
+  },
+  {
+    "question": "In which sport would you perform a 'slam dunk'?",
+    "options": ["Volleyball", "Basketball", "Tennis", "Handball"],
+    "answer": "Basketball"
+  },
+  {
+    "question": "What is the name of the force that keeps planets in orbit around the sun?",
+    "options": ["Magnetism", "Electromagnetism", "Gravity", "Nuclear Force"],
+    "answer": "Gravity"
+  },
+  {
+    "question": "Which country has the most natural lakes?",
+    "options": ["Russia", "USA", "Finland", "Canada"],
+    "answer": "Canada"
+  },
+  {
+    "question": "Who painted the Sistine Chapel ceiling?",
+    "options": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Botticelli"],
+    "answer": "Michelangelo"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": ["Barcelona", "Seville", "Valencia", "Madrid"],
+    "answer": "Madrid"
+  },
+  {
+    "question": "What is the name of the first artificial satellite launched into space?",
+    "options": ["Explorer 1", "Vostok 1", "Sputnik 1", "Luna 1"],
+    "answer": "Sputnik 1"
+  },
+  {
+    "question": "Which ancient wonder of the world was located in Alexandria, Egypt?",
+    "options": [
+      "The Colossus of Rhodes",
+      "The Lighthouse of Alexandria",
+      "The Hanging Gardens",
+      "The Temple of Artemis"
+    ],
+    "answer": "The Lighthouse of Alexandria"
+  },
+  {
+    "question": "What is the name of the phobia of heights?",
+    "options": ["Claustrophobia", "Agoraphobia", "Acrophobia", "Hydrophobia"],
+    "answer": "Acrophobia"
+  },
+  {
+    "question": "Which composer wrote 'The Four Seasons'?",
+    "options": ["Bach", "Handel", "Vivaldi", "Haydn"],
+    "answer": "Vivaldi"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "options": ["Busan", "Incheon", "Seoul", "Daegu"],
+    "answer": "Seoul"
+  },
+  {
+    "question": "In which year did man first land on the moon?",
+    "options": ["1965", "1967", "1969", "1971"],
+    "answer": "1969"
+  },
+  {
+    "question": "What is the name of the long-running animated TV show featuring the Simpson family?",
+    "options": ["Family Guy", "Futurama", "The Simpsons", "South Park"],
+    "answer": "The Simpsons"
+  }
+]
